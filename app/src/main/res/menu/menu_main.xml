@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/enter_zipCode" android:title="@string/enter_ZipCode"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/current_weather" android:title="@string/current_weather"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/sevenDay_Forecast" android:title="@string/sevenDay_Forecast"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/units" android:title="@string/units"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/about" android:title="@string/about"
+        android:orderInCategory="100" app:showAsAction="never" />
+
+</menu>

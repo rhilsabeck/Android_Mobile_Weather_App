@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">csc510_p2</string>
+
+    <string name="zip_code">Zip Code:</string>
+    <string name="current_time">Current Time:</string>
+    <string name="current_conditions_text">Current Conditions:</string>
+    <string name="current_condition"> </string>
+    <string name="radio_metric">Metric</string>
+    <string name="radio_imperial">Imperial</string>
+    <string name="temperature_text">Temperature</string>
+    <string name="visibility_text">Visibility</string>
+    <string name="dew_point_text">Dew Point</string>
+    <string name="wind_speed_text">Wind Speed</string>
+    <string name="relative_humidity_text">Relative Humidity</string>
+    <string name="gusts_text">Gusts</string>
+    <string name="pressure_text">Pressure</string>
+    <string name="action_settings">Settings</string>
+    <string name="go_button">Go</string>
+    <string name="weatherImage">weatherImage</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_ZipCode">Enter Zipcode</string>
+    <string name="recent_zipCodes">Recent Zipcodes</string>
+    <string name="current_weather">Current Weather</string>
+    <string name="sevenDay_Forecast">7-Day Forecast</string>
+    <string name="units">Units</string>
+    <string name="about">About</string>
+    <string name="enter">Enter</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="area_description">Area Description</string>
+    <string name="day_of_week">Day Of Week</string>
+    <string name="forecast_high">High: </string>
+    <string name="forecast_low">Low: </string>
+    <string name="forecast_image_desc">Forecast Image</string>
+    <string name="forecast_am_title">A.M. Title</string>
+    <string name="forecast_am">A.M.</string>
+    <string name="forecast_pm_title">P.M. Title</string>
+    <string name="forecast_pm">P.M.</string>
+    <string name="forecast">Forecast Text</string>
+    <string name="done">Done</string>
+    <string name="ok">Ok</string>
+    <string name="recent_zip_Codes">Click here for recent zip codes</string>
+    <string name="badZipToast">Please enter in a valid 5 digit zip code</string>
+    <string name="weatherAlert">Weather Alert</string>
+    <string name="precipitation">precipitation</string>
+
+</resources>
